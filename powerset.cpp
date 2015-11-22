@@ -44,4 +44,8 @@ int main(int argc, char const *argv[])
 	Chars.push_back('f');
 	generate_power_set(Chars);
 	return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 6d8dada945196e40c587a4a99b3eff497464ccea
